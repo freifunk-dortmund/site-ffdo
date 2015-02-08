@@ -1,2 +1,2 @@
 # site-ffruhr
-Freifunk Ruhrgebiet specific Gluon configuration
+FF Ruhrgebiet (FFRG) specific Gluon configuration.
