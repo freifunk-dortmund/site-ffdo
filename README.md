@@ -1,2 +1,2 @@
-# site-ffruhr
-FF Ruhrgebiet (FFRG) specific Gluon configuration.
+# site-ffdo
+FF Dortmund (FFDO) specific Gluon configuration.
